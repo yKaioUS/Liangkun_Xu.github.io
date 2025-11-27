@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zixuan Yang"
+title                    : "Liangkun Xu"
 description              : ""
-repository               : "Luli3220/ZiXuanYang.github.io"
+repository               : "yKaioUS/Liangkun_Xu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "ZiXuan Yang"
+  name             : "Liangkun Xu"
   avatar           : "images/person.jpg"
   bio              : "Undergraduate Student, East China Normal University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : ""
-  email            : "10245501483@stu.ecnu.edu.cn"
+  email            : "10235101580@stu.ecnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Luli3220"
+  github           : "yKaioUS"
   google_plus      :
   keybase          :
   instagram        :

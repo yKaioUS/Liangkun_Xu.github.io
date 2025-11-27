@@ -17,17 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year undergraduate student in the School of Data Science and Engineering., East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
+I am currently a third-year undergraduate student in the School of Software Engineering., East China Normal University.
 
 My research interests include:
-- **Large Language Models**
-- **Reinforcement Learning**
+- **Federated Learning**
 
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 
 
 # 📖 Educations
-- *2024.09 - now*, Undergraduate student, Data Science and Engineering, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
+- *2024.09 - now*, Undergraduate student, Software Engineering, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
 
 
 
